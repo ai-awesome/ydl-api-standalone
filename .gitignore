@@ -1,0 +1,13 @@
+
+nodemodule
+build
+dist
+main.spec
+app.spec
+
+/ydl_api_ng
+venv
+*_dist.zip
+
+__pyc
+__pycache__/
